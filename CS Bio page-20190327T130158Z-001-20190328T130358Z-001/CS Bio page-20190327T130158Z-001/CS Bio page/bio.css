@@ -1,0 +1,27 @@
+html{
+  background-image: linear-gradient(to bottom right, rgba(30,33,36,255), rgba(40,43,48,255), rgba(54,57,62,255), rgba(66, 69, 73, 255));
+  color: #7C95ED;
+}
+div{
+  text-align: center;
+    background-image: linear-gradient(to bottom right, rgba(30,33,36,255), rgba(40,43,48,255), rgba(54,57,62,255), rgba(66, 69, 73, 255));
+  color: #7C95ED;
+}
+
+.row{
+  width: 100%;
+  height:350px;
+}
+
+.col{
+  height:100%;
+  width:49%;
+  border: 2px solid #63686E;
+  border-style: dashed;
+  float: left;
+  display: inline-block;
+}
+
+.bc{
+
+}
